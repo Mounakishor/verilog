@@ -1,0 +1,7 @@
+work/
+*.wlf
+*.mpf
+*.mti
+transcript
+vsim.wlf
+wave.do
